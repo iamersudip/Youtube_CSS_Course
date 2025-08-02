@@ -1,6 +1,7 @@
 * {
   /* margin: 0;
   padding: 0; */
+  /* font-size: 16px; */
   background-color: honeydew;
   font-family: "Roboto", sans-serif;
 }
@@ -77,4 +78,24 @@ p,
 #box6 {
   /* visibility: hidden; */
   display: none;
+}
+
+#second_div {
+  background-color: lightcoral;
+  height: 100px;
+  width: 200px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+#third_div {
+  background-color: lightpink;
+  width: 70%;
+  height: 60%;
+  font-size: 0.75em;
+  /* font-size: 1.5rem; */
+}
+#fourth_dev {
+  background-color: lightskyblue;
+  width: 60vw;
+  height: 40vh;
 }
