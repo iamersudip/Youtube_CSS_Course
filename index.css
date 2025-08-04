@@ -55,7 +55,7 @@ p,
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat; */
-  background: antiquewhite url(amazon.png) center / contain no-repeat;
+  background: antiquewhite url(./amazon.png) center / contain no-repeat;
 }
 #box4 {
   box-sizing: border-box;
