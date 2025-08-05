@@ -34,7 +34,8 @@ p,
 #first_div p {
   color: tomato;
 }
-#link {
+#link1,
+#link2 {
   text-decoration: none;
 }
 
