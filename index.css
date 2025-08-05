@@ -94,11 +94,16 @@ p,
   font-size: 0.75em;
   /* font-size: 1.5rem; */
 }
-#fourth_dev {
+#fourth_div {
   background-color: lightskyblue;
   width: 60vw;
   height: 40vh;
   margin-bottom: 10px;
+}
+@media screen and (min-width: 500px) and (max-width: 1000px) {
+  #fourth_div {
+    background-color: lightgreen;
+  }
 }
 .position_box {
   height: 100px;
